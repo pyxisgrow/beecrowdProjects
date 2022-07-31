@@ -1,0 +1,25 @@
+Leia os valores flutuantes de três pontos (A, B e C) e verifique se é possível fazer um triângulo com eles. Se for possível, calcule o perímetro do triângulo e imprima a mensagem:
+
+
+Perímetro = XX.X
+
+
+Caso não seja possível, calcule a área do trapézio que tem como base A e B e C como altura, e imprima a mensagem:
+
+
+Área = XX.X
+
+Entrada
+O arquivo de entrada tem números de ponto flutuante em árvore.
+
+Resultado
+Imprima o resultado com um dígito após o ponto decimal.
+
+Amostra de entrada	Amostra de saída
+6,0 4,0 2,0
+
+Área = 10,0
+
+6,0 4,0 2,1
+
+Perímetro = 12,1
